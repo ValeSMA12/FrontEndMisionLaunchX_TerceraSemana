@@ -1,0 +1,80 @@
+
+
+#logo{
+  float: left;
+  font-family: 'DM Sans', sans-serif;
+  color: rgb(45, 77, 203);
+  font-size: 32px;
+  padding-left: 10px;
+  font-weight: bold;
+}
+
+#hoax{
+  background-color: rgb(45,77,203);
+  border-radius: 5px;
+}
+
+#hoax a {
+  color: white;
+}
+
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFFFFF;
+  padding: 30px;
+  font-family: 'Poppins', sans-serif;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: grey ;
+  text-align: center;
+  padding: 14px 30px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+li a:hover {
+  background-color: rgb(216, 236, 248);
+}
+
+img {
+  display: inline;
+  width: 50%;
+  height: 800px;
+}
+
+h1, h2 {
+  color: rgb(31, 62, 114);
+}
+
+.welcome{
+  background-color: white;
+}
+
+.info {
+  width: 50%
+  height: 800px;
+  display: inline-block;
+}
+
+.information{
+  background-color: #5d0c0c;
+  opacity: 0.6;
+}
+
+.preparation{
+  background-color: white;
+}
+
+.emergency{
+  background-color: #5d0c0c;
+}
